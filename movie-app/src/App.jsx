@@ -23,6 +23,7 @@ function App() {
           `https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}`
         );
         const data = await res.json();
+        console.log(data.results);
         setMovies(data.results);
       } catch (err) {
         setError("Failed to load movies");
