@@ -78,6 +78,12 @@ The application retrieves popular movie information from the TMDB API and displa
 - GitHub Desktop
 
 ---
+link to live Demo
+
+[live Demo] (https://movie-app-rouge-rho.vercel.app)
+
+---
+
 
 ## Architecture
 
@@ -94,4 +100,4 @@ MovieCard.jsx
    ↓
 Movie information displayed on screen
 
-[live Demo] (https://movie-app-rouge-rho.vercel.app)
+
