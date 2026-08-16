@@ -91,10 +91,7 @@ App.jsx
 MovieList.jsx
    ↓
 MovieCard.jsx
-
-
-[live Demo] (https://movie-app-rouge-rho.vercel.app)
    ↓
 Movie information displayed on screen
 
-
+[live Demo] (https://movie-app-rouge-rho.vercel.app)
