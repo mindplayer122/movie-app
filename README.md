@@ -80,7 +80,7 @@ The application retrieves popular movie information from the TMDB API and displa
 ---
 link to live Demo
 
-[live Demo] (https://movie-app-rouge-rho.vercel.app)
+[live Demo](https://movie-app-rouge-rho.vercel.app)
 
 ---
 
